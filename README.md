@@ -72,7 +72,7 @@ You can listen respective audio file of this test image on respective `img-audio
 
 Clone the repository:
 
-`git clone https://github.com/GURPREETKAURJETHRA/Image-to-Speech-GenAI-Tool-Using-LLM.git`
+`git clone https://github.com/ramyapaluvayi/Image-To-Speech-GenAI-Using-LLM`
 
 Install the required Python packages:
 
@@ -95,6 +95,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 #### **If you like this LLM Project do drop ⭐ to this repo and Contributions are welcome! If you have any suggestions for improving this AI Img-Speech Converter, please submit a pull request.💁**
-#### Follow me on [![LinkedIn](www.linkedin.com/in/ramya-sruthi-a32524280) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramyapaluvayi)
+#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ramya-sruthi-a32524280) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramyapaluvayi)
 
 ---
